@@ -80,6 +80,6 @@ The project should now be running on `http://localhost:3000`
 
 # Acknowledgement
 
-I would like to acknowledge the following individuals and resources for their contributions and support:
+We would like to acknowledge the following individuals and resources for their contributions and support:
 
 
