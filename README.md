@@ -75,11 +75,7 @@ The project should now be running on `http://localhost:3000`
 
 * Hardik Malani
 * Anouska Jhunjunwala
-* Vikrant Kumar Singh
 * Shivam Bansal
-
-# Acknowledgement
-
-We would like to acknowledge the following individuals and resources for their contributions and support:
+* Vikrant Kumar Singh
 
 
